@@ -4,7 +4,7 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inconsolata|Tangerine|Cardo|Raleway|Syne">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="public/js/dog.js"></script>
-    <title >Desáfio Dog API</title>
+    <title >Desafio Dog API</title>
     <meta charset="utf-8">
   </head>
   <body>
