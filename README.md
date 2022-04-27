@@ -1,15 +1,17 @@
 # Desafio Dog API
 
-## Consumir a API buscando todas as raças de cães e deixar com que o usuário realize o cadastro de seu proprio cão. Salvar as alterações no localStorage e exibir quando já existir cadastro. Consumir a API para retornar uma foto de acordo com a raça do cachorro.
+## Description
+
+Consume the API searching for all dog breeds and let the user register their own dog. Save changes to localStorage and display when registration already exists. Consume the API to return a photo according to the dog's breed.
 
 
-## Requisitos:
+## Requirements:
 
 - PHP 7.3 ou maior.
 - Composer
 
-## Rodar localmente:
+## Install:
 
-- Clonar o repositório
+- git clone
 - php composer.phar install
-- Alterar a URL na classe App/Config.php
+- Change the URL inside App/Config.php
