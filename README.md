@@ -1,4 +1,4 @@
-# Save your Dog
+# Register your Dog
 
 ## Description
 
